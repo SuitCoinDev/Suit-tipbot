@@ -3,7 +3,7 @@ import warnings
 from utils import parsing, output
 
 config = parsing.parse_json('config.json')["mysql"]
-host = config["66.42.109.62"]
+host = config["host"]
 try:
     port = int(config["port"])
 except KeyError:
