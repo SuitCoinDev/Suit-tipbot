@@ -1,5 +1,5 @@
 # Discord-LancerBit-Tips
-[LancerBit Discord](https://discord.gg/Bz8ejJP)
+[LancerBit Discord](https://discord.gg/z5X73Y6)
 
 
 These files are intended to function as a multi-functional tipbot for Cryptonodes Currency
@@ -8,7 +8,7 @@ These files are intended to function as a multi-functional tipbot for Cryptonode
 * discord.py installed
 * Python 3.6+
 * A MySQL database
-* The Cryptonodes wallet w/ RPC enabled.
+* The LancerBit wallet w/ RPC enabled.
 
 # Functions
 * Display general wallet information
