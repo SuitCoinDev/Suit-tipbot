@@ -1,5 +1,5 @@
-# Discord-Cryptonodes-Tips
-[Cryptonodes Discord](https://discord.gg/Bz8ejJP)
+# Discord-LancerBit-Tips
+[LancerBit Discord](https://discord.gg/Bz8ejJP)
 
 
 These files are intended to function as a multi-functional tipbot for Cryptonodes Currency
