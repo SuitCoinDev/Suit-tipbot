@@ -5,11 +5,11 @@ from utils import parsing, output
 config = parsing.parse_json('config.json')["mysql"]
 host = config["66.42.109.62"]
 try:
-    port = int(config["3488"])
+    port = int(config["port"])
 except KeyError:
     port = 3306
-db_user = config["root"]
-db_pass = config["9cb542e9A"]
+db_user = config["user"]
+db_pass = config["pass"]
 db = config["db"]
 connection = pymysql.connect(
     host=host,
