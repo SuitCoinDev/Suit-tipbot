@@ -10,6 +10,18 @@ These files are intended to function as a multi-functional tipbot for Cryptonode
 * A MySQL database
 * The LancerBit wallet w/ RPC enabled.
 
+#* *Python + pip + essential*
+$ sudo apt-get install python-pip python-dev build-essential 
+$ sudo pip install --upgrade pip 
+$ sudo pip install --upgrade virtualenv 
+
+or
+
+# *Easy*
+$ sudo apt-get install python-setuptools python-dev build-essential 
+$ sudo easy_install pip 
+$ sudo pip install --upgrade virtualenv 
+
 # Functions
 * Display general wallet information
 * Display individual user balances
